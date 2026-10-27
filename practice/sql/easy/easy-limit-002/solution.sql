@@ -1,0 +1,5 @@
+-- Xom Data · Top 3 highest-value orders
+-- Problem: https://xomdata.com/practice/easy-limit-002
+-- Solved: 2026-10-27
+
+select order_code, customers, total_amount from orders ORDER BY total_amount desc limit 3
