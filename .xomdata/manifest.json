@@ -13,5 +13,12 @@
   "practice/sql/easy/easy-avg-001/solution.sql": "9f0f50d943b1ebd761fb665fdaa7d0f99dc3db43d0359984d64edac63768b491",
   "practice/sql/medium/medium-join-001/solution.sql": "ce9a7345e86449b648224621bf26808916b7cb71fce708a2c04be1211b78ef36",
   "practice/sql/medium/medium-leftjoin-031/solution.sql": "2bdbda03adb64c5c29026539a360a047dcb54526ff7964a21578fcd69a12392d",
-  "practice/sql/medium/medium-groupby-027/solution.sql": "003a9f1d8d83e1b9303f43424f3fdbaf7dabbb32daf3c070f89f8e55d6660aad"
+  "practice/sql/medium/medium-groupby-027/solution.sql": "003a9f1d8d83e1b9303f43424f3fdbaf7dabbb32daf3c070f89f8e55d6660aad",
+  "practice/sql/easy/easy-where-010/solution.sql": "3752beb8ae04812a7cf2790ed4bce6ed4cf7f23a659a516e0c01cbc4109117d5",
+  "practice/sql/easy/easy-where-012/solution.sql": "13ff6bf7882929cd6a53be6714badcf91009408d302536166ab87360098fe081",
+  "practice/sql/easy/easy-where-025/solution.sql": "8524fa4923760cdb2ae6353bd139b3c48dede679509c6b12eb413d0b68504fd4",
+  "practice/sql/easy/easy-where-027/solution.sql": "412b9f7ca316bafda4f4d294e0e29d4d81822801fc223040f1ba4d9ae1320721",
+  "practice/sql/medium/medium-having-019/solution.sql": "e4e7c616cff3652c6ba2d1a2998cebba8731dd0d1c2b2a21276d5d26027b937d",
+  "practice/sql/medium/medium-case-124/solution.sql": "1b91fc0caf13b8410da2c6f4113a3a6868371ff4268f539efdd9965b0f53c511",
+  "practice/sql/medium/medium-subquery-103/solution.sql": "546fa36e11e8eac923c2fc14482b48c5250802669a554ace2dd829b26cb1d95c"
 }
