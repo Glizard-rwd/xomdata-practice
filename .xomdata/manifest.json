@@ -20,5 +20,14 @@
   "practice/sql/easy/easy-where-027/solution.sql": "412b9f7ca316bafda4f4d294e0e29d4d81822801fc223040f1ba4d9ae1320721",
   "practice/sql/medium/medium-having-019/solution.sql": "e4e7c616cff3652c6ba2d1a2998cebba8731dd0d1c2b2a21276d5d26027b937d",
   "practice/sql/medium/medium-case-124/solution.sql": "1b91fc0caf13b8410da2c6f4113a3a6868371ff4268f539efdd9965b0f53c511",
-  "practice/sql/medium/medium-subquery-103/solution.sql": "546fa36e11e8eac923c2fc14482b48c5250802669a554ace2dd829b26cb1d95c"
+  "practice/sql/medium/medium-subquery-103/solution.sql": "546fa36e11e8eac923c2fc14482b48c5250802669a554ace2dd829b26cb1d95c",
+  "practice/sql/medium/medium-coalesce-040/solution.sql": "73b68ed5e944690bdfb3b82af22ad441330ac24ae6ea3f3b028c543e7004570e",
+  "practice/sql/medium/medium-datefunction-045/solution.sql": "c2830ff760b90347f9d5d442eebad44efc3d62b0d8ce3a2f9f7c2471043f6459",
+  "practice/sql/medium/medium-union-175/solution.sql": "dbe843c3baee7bfb031e42e50463ced329f3c9afa4d838bf83da70c7516a6c8f",
+  "practice/sql/medium/medium-agg-127/solution.sql": "e500dd521a2d19a7db2f58a01d6742a458be4ed44fed4ca5778f2e5a6be46c7c",
+  "practice/sql/hard/hard-topn-001/solution.sql": "f7c4206f0b4fa2b57268d5b75250d1c94320f11818b8408c83a5f4e9d7cf9081",
+  "practice/sql/hard/hard-frame-001/solution.sql": "3e69202e9b312ec1534396a45a4de4f02dafcda57ee9a3084210081950ddb013",
+  "practice/sql/hard/hard-pivot-001/solution.sql": "00908c73f7f7a0a34ce2a10fd8d204e97a13e4281744acfba96c01c331002186",
+  "practice/sql/hard/hard-percentile-001/solution.sql": "bd95b181633eabfca20c73f31f28eb8efbdbafc801eb83168566bf032516846e",
+  "practice/sql/hard/hard-recursive-001/solution.sql": "994652c34cdc0ad7f6ed810204899fa4a027f50c384ddebda82f2cbf1f8d0f2d"
 }
